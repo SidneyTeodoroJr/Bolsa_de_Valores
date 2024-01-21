@@ -6,9 +6,10 @@ def css():
                 <style>
                 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,700;1,300&family=Poppins:wght@200&family=Roboto+Serif:ital,opsz,wght@1,8..144,200&display=swap');
 
-                /*Variável*/
-                :root {
-                   --verde-color: #16f228;
+                body {
+                    padding: 0;
+                    margin: 0;
+                    background-color: #eb4f4f;
                 }
                 /*Removendo o botão de menu padrão*/
                 .stDeployButton {
@@ -31,10 +32,6 @@ def css():
                 }
                 #link {
                     color: #a0a3a1;
-                }
-                .verde {
-                    color: var(--verde-color);
-                    font-style: italic;
                 }
                 h1, h2 {
                     text-align: center;

@@ -1,6 +1,7 @@
 import streamlit as st
 
 def right_bar():
+    # Foto pessal
     st.sidebar.image("https://media.licdn.com/dms/image/D4E03AQEYF1sF6SflZA/profile-displayphoto-shrink_800_800/0/1704878762502?e=1711584000&v=beta&t=A5KKfKhhK5hrjkS6db7rn1gl_1_atcXTeMwoEAchmVU")
 
     st.sidebar.markdown("<h1>Sidney T. A. Junior</h1>", unsafe_allow_html=True)
