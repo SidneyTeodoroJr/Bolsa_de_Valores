@@ -14,7 +14,7 @@ def css():
                 /*Removendo o botão de menu padrão*/
                 .stDeployButton {
                     visibility: hidden;
-                }    
+                } 
                 /*Estilizando os títulos e texto*/
                 h1 {
                     font-size: 3em;
