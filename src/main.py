@@ -1,6 +1,3 @@
-# Rodar o app: streamlit streamlit run src\main.py
-# Acessar a aplicação no navegador: http://localhost:8501
-
 # Importando as dependências
 import yfinance as yf
 import streamlit as st
