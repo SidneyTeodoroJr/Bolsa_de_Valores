@@ -21,8 +21,9 @@
 
 ## Estrutura do Projeto
 <p>
-O projeto está dividido em vários scripts para melhor organização e modularidade:
+O projeto está dividido em vários scripts para melhor organização e modularidade.
 <p/>
+<br/>
 
 1. `main.py`: O ponto de entrada da aplicação que importa e utiliza os módulos e scripts necessários.
 2. `page.py`: Contém a função `page()` que personaliza o layout da página usando `st.set_page_config`.
@@ -32,22 +33,27 @@ O projeto está dividido em vários scripts para melhor organização e modulari
 6. `right_bar.py`: Define uma barra lateral direita com informações pessoais e links sociais do desenvolvedor.
 
 ## Instruções de Execução
-1. Instale as dependências necessárias usando `pip install -r requirements.txt`.
-2. Execute o aplicativo Streamlit com o comando streamlit `run main.py`.
-
+1. Instale as dependências necessárias usando:
+    ```shell
+    pip install -r requirements.txt
+2. Execute o aplicativo Streamlit com o comando streamlit:
+   ```shell
+   streamlit run src/main.py
+3. Acesse a aplicação no navegador através do link:
+   ```shel
+   http://localhost:8501/
 ## Personalizações
 1. O título da página, o ícone e a disposição inicial da barra lateral podem ser ajustados no arquivo `page.py`.
 2. Estilos visuais podem ser customizados no arquivo `style.py`.
 
 ### Referência:
    [YouTube ](https://youtu.be/u7Whb4QbXJs)
+<br/>
 
 ## Contribuições
-
 <p>
 Contribuições são bem-vindas! Se quiser melhorar o projeto, adicionar novas funcionalidades ou corrigir problemas, fique à vontade.
 </p>
-
 <hr>
 </br>
 
