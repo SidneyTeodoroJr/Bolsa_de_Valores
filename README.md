@@ -25,12 +25,12 @@ O projeto está dividido em vários scripts para melhor organização e modulari
 <p/>
 <br/>
 
-1. `main.py`: O ponto de entrada da aplicação que importa e utiliza os módulos e scripts necessários.
-2. `page.py`: Contém a função `page()` que personaliza o layout da página usando `st.set_page_config`.
-3. `style.py`: Define estilos e formatação CSS para melhorar a estética da aplicação.
-4. `data.py`: Contém a função `dataFrame()` que exibe um DataFrame filtrado com base nos anos selecionados.
-5. `graphic.py`: Contém funções para gerar gráficos interativos, como `line()` e `bar()`.
-6. `right_bar.py`: Define uma barra lateral direita com informações pessoais e links sociais do desenvolvedor.
+1. [main.py](https://github.com/SidneyTeodoroJr/Bolsa_de_Valores/blob/main/src/main.py): O ponto de entrada da aplicação que importa e utiliza os módulos e scripts necessários.
+2. [page.py](https://github.com/SidneyTeodoroJr/Bolsa_de_Valores/blob/main/src/modulos/page.py): Contém a função `page()` que personaliza o layout da página usando `st.set_page_config`.
+3. [style.py](https://github.com/SidneyTeodoroJr/Bolsa_de_Valores/blob/main/src/modulos/style.py): Define estilos e formatação CSS para melhorar a estética da aplicação.
+4. [data.py](https://github.com/SidneyTeodoroJr/Bolsa_de_Valores/blob/main/src/modulos/data.py): Contém a função `dataFrame()` que exibe um DataFrame filtrado com base nos anos selecionados.
+5. [graphic](https://github.com/SidneyTeodoroJr/Bolsa_de_Valores/blob/main/src/modulos/graphic.py).py: Contém funções para gerar gráficos interativos, como `line()` e `bar()`.
+6. [right_bar](https://github.com/SidneyTeodoroJr/Bolsa_de_Valores/blob/main/src/modulos/right_bar.py).py: Define uma barra lateral direita com informações pessoais e links sociais do desenvolvedor.
 
 ## Instruções de Execução
 1. Instale as dependências necessárias usando:
