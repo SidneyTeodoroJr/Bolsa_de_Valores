@@ -1,4 +1,4 @@
-# Rodar o app: streamlit run src\main.py
+# Rodar o app: streamlit streamlit run src\main.py
 # Acessar a aplicação no navegador: http://localhost:8501
 
 # Importando as dependências
