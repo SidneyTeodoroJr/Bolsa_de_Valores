@@ -1,4 +1,4 @@
-<h1 align="center">Closing of Shares</h1>
+<h1 align="center">Fechamento de Ações</h1>
 </br>
 
 <div align="center">
