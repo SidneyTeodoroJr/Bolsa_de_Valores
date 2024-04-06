@@ -26,7 +26,7 @@ def css():
                     margin-bottom: 0.5em;
                 }
                 p {
-                    text-align: justify;
+                    text-align: center;
                     font-size: 1.1em;
                     font-family: 'Roboto Serif', serif;
                 }
@@ -40,10 +40,11 @@ def css():
                 img {
                     border-radius: 50%;
                     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
-                    transition: box-shadow 0.5s ease;
                 } 
-                img:hover{
-                    box-shadow: rgba(245, 240, 240) 0px 22px 450px 4px;                
-                }          
+                #docs {
+                    border-radius: 5%;
+                    box-shadow: none;
+                    width: 70%;
+                }      
                 </style>
     """, unsafe_allow_html=True)
