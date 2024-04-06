@@ -39,9 +39,8 @@ O projeto está dividido em vários scripts para melhor organização e modulari
 2. Execute o aplicativo Streamlit com o comando streamlit:
    ```shell
    streamlit run src/main.py
-3. Acesse a aplicação no navegador através do link:
-   ```shel
-   http://localhost:8501/
+3. Acesse a aplicação no navegador.
+   
 ## Personalizações
 1. O título da página, o ícone e a disposição inicial da barra lateral podem ser ajustados no arquivo `page.py`.
 2. Estilos visuais podem ser customizados no arquivo `style.py`.
