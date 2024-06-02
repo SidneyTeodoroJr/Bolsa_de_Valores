@@ -5,7 +5,7 @@ def right_bar():
     st.sidebar.image("https://avatars.githubusercontent.com/u/91035485?v=4")
 
     st.sidebar.markdown("<h1>Sidney T. A. Junior</h1>", unsafe_allow_html=True)
-    st.sidebar.markdown("<h2>Desenvolvedor de software e aplicações web</h2>", unsafe_allow_html=True)
+    st.sidebar.markdown("<h2>Desenvolvedor de automação e aplicações web</h2>", unsafe_allow_html=True)
     st.sidebar.markdown('<p>Contribuições são bem-vindas!<br/> Se quiser melhorar o projeto, adicionar novas funcionalidades ou corrigir problemas, fique à vontade. <br/><a href="https://sidney-personal-portifolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" style="border-radius: 30px; width: 35%; margin-top: 10%;" /></a></p>', unsafe_allow_html=True)
 
 # Dividindo em duas colunas

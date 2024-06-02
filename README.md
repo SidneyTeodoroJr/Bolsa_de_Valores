@@ -13,6 +13,8 @@
  Este projeto é uma aplicação web desenvolvida em Python utilizando o framework Streamlit. A aplicação permite que os usuários visualizem o fechamento de ações de uma empresa específica, analisem variações de preço ao longo do tempo e examinem a distribuição dos dividendos.
 <p/>
 
+<h4 align="left"><a href="https://bolsa-de-valores.streamlit.app/">Live demo>></a></h4>
+
 ### Tecnologias usada:
 [Python](https://docs.python.org/3/)<br/>
 ﻿[yfinance](https://pypi.org/project/yfinance/)<br/>
@@ -49,7 +51,9 @@ O projeto está dividido em vários scripts para melhor organização e modulari
    [YouTube ](https://youtu.be/u7Whb4QbXJs)
 <br/>
 
-## Contribuições
+ ## Contribuições
+</br>
+
 <p>
 Contribuições são bem-vindas! Se quiser melhorar o projeto, adicionar novas funcionalidades ou corrigir problemas, fique à vontade.
 </p>
@@ -57,7 +61,7 @@ Contribuições são bem-vindas! Se quiser melhorar o projeto, adicionar novas f
 </br>
 
 <div align="center">
-<a href="https://www.facebook.com/profile.php?id=100091086461235"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" style="border-radius: 30px" target="_blank" /></a>
+<a href="https://sidney-personal-portifolio.netlify.app/"><img src="https://img.shields.io/badge/-Portifolio-%230077B5?style=for-the-badge&logo=portifolio&logoColor=white" style="border-radius: 30px" target="_blank" /></a>
 <a href="https://www.instagram.com/sidneyteodoroaraujo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/sidney-teodoro-4a4a8119b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FevuTOiSSJS2hWGCZgtZiQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank" /></a>
 </div>
