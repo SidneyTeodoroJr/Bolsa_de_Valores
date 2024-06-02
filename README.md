@@ -13,7 +13,7 @@
  Este projeto é uma aplicação web desenvolvida em Python utilizando o framework Streamlit. A aplicação permite que os usuários visualizem o fechamento de ações de uma empresa específica, analisem variações de preço ao longo do tempo e examinem a distribuição dos dividendos.
 <p/>
 
-<h4 align="left"><a href="https://bolsa-de-valores.streamlit.app/">Live demo>></a></h4>
+<h4 align="left"><a href="https://bolsa-de-valores-32tv.onrender.com/">Live demo>></a></h4>
 
 ### Tecnologias usada:
 [Python](https://docs.python.org/3/)<br/>
